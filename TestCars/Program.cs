@@ -75,3 +75,4 @@
         {
             Console.WriteLine($"Car {cars[i]} ISN'T ready for delivery to the client");
         } */
+// AMDNIN LOH
